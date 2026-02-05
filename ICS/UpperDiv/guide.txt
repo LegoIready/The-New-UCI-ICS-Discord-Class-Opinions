@@ -1,0 +1,9 @@
+ICS 139W (Critical Writing on Information Technology)
+ICS 161 (Game Engine Lab)
+ICS 162 (Modeling and World Building)
+ICS 163 (Mobile and Ubiquitous Games)
+ICS 166 (Game Design)
+ICS 167 (Multiplayer Game Systems)
+ICS 168 (Multiplayer Game Project)
+ICS 169A&B (Capstone Game Project)
+
